@@ -1,0 +1,29 @@
+[
+  {
+    "reviewId": "0ba046c695e5a921",
+    "hotelId": 280149,
+    "hotelName": "The Savoy",
+    "hotelUrl": "https://www.booking.com/hotel/gb/the-savoy.html",
+    "score": 9,
+    "reviewedAt": "2026-09-23T20:10:18.000Z",
+    "stayCheckin": "2026-09-22",
+    "stayCheckout": "2026-09-23",
+    "roomType": "One-Bedroom River View Suite",
+    "travellerType": "SOLO_TRAVELLERS",
+    "liked": "the water debit",
+    "disliked": "not too much space"
+  },
+  {
+    "reviewId": "illustrative-second-record",
+    "hotelId": 280149,
+    "hotelName": "The Savoy",
+    "score": 8,
+    "reviewedAt": "2026-09-24T12:00:00.000Z",
+    "stayCheckin": "2026-09-20",
+    "stayCheckout": "2026-09-22",
+    "roomType": "Deluxe Double Room",
+    "travellerType": "COUPLES",
+    "liked": "Helpful staff",
+    "disliked": "Slow breakfast service"
+  }
+]
