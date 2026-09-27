@@ -2,6 +2,10 @@
 
 This example calls our Booking Reviews Scraper on Apify. It does not implement a Booking.com scraper from scratch.
 
+![Booking.com hotel review dataset with separate review and stay dates](./images/booking_reviews_results.png)
+
+This screenshot is from a separate run and includes score-only rows. The input below requests written reviews only. The hero illustration is in [`images/booking_reviews_blog.png`](./images/booking_reviews_blog.png).
+
 ## What this example does
 
 - Sends one hotel URL and asks for up to ten written reviews
